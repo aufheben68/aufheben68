@@ -15,8 +15,17 @@
 
 ### Hello world, I'm Ody 👋
 
-I'm a student, studying **Computer Studies** at [University of Peloponesse](https://www.uop.gr/). I am currently working on my thesis, which is a project that consists of a testbed implemented in *Docker*, a blockchain, a couple containers built for penetration testing and a network with a rule-setting API. I'm also improving my python skills, on my effort to build a custom blockchain in order to improve overall system's security.
+I'm a student, studying **Computer Studies** at [University of Peloponesse](https://www.uop.gr/). I am currently working on my thesis, which is a project that consists of a testbed implemented in *Docker*, a blockchain, a couple containers built for penetration testing and a network with a rule-setting API. One of my near future goals is to improve my python skills, in order to build a custom blockchain and enhance overall system's security.
 
-I'm a **Java Certified** Full Stack Developer of the **AFDEmp** Code Bootcamp at [PeopleCert](https://peoplecerteducation.org/bootcamp/).
+I'm also a **Java Certified** Full Stack Developer of the **AFDEmp** Code Bootcamp at [PeopleCert](https://peoplecerteducation.org/bootcamp/).
+
+## I am passionate about:
+
+- Secure Protocols
+- Linux Server Administration
+- Penetration Testing
+- Web Development
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aufheben68&show_icons=true&theme=merko)](https://github.com/aufheben68/github-readme-stats)
