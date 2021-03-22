@@ -1,6 +1,6 @@
 [![banner.png](https://i.postimg.cc/Pf1Zszsf/banner.png)](https://postimg.cc/dDtDGCVg)
 
-#   System Security Engineer | Sys Admin | Full Stack Web Developer
+<h1 align="center">System Security Engineer | Sys Admin | Full Stack Web Developer</h1>
 
 <p align="center">
   <img src="https://i.postimg.cc/28YVxJ5d/giphy.gif" />
