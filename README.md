@@ -1,6 +1,12 @@
 [![banner.png](https://i.postimg.cc/Pf1Zszsf/banner.png)](https://postimg.cc/dDtDGCVg)
 
-# System Security Engineer and System Administrator, Full Stack Web Developer!  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faufheben68&count_bg=%235EDB00&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com) 
+# System Security Engineer and System Administrator, Full Stack Web Developer!  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faufheben68&count_bg=%235EDB00&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+<p align="center"> 
+  <i>Visitor count</i><br>
+  <img src="https://profile-counter.glitch.me/aufheben68/count.svg" />
+</p>
+
 ---
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aufheben68) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg' alt='protonmail' height='40'>](od_tas)  
@@ -21,11 +27,49 @@ I'm also a **Java Certified** Full Stack Developer of the **AFDEmp** Code Bootca
 
 ## I am passionate about:
 
-- Secure Protocols
+- Blockchains
+- Cryptography
 - Linux Server Administration
 - Penetration Testing
 - Web Development
 
+## Current Stack:
 
+### Front-End:
+
+<a href="https://www.reactjs.org" target="_blank">
+	<img src="https://img.shields.io/badge/ReactJS-★★★-41DFFF" />
+</a>
+<a href="https://www.javascript.com/" target="_blank">
+	<img src="https://img.shields.io/badge/JS-★★★★★-FF0000" />
+</a>
+
+### Back-End:
+
+<a href="https://www.mysql.com" target="_blank">
+	<img src="https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-F29111" />
+</a>
+<a href="https://www.mongodb.com" target="_blank">
+	<img src="https://img.shields.io/badge/MongoDB-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-0000FF" />
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+	<img src="https://img.shields.io/badge/PostgreSQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-1A1A1A" />
+</a>
+
+### Content Management Systems:
+
+<a href="https://www.wordpress.org" target="_blank">
+	<img src="https://img.shields.io/badge/Wordpress-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-000000" />
+</a>
+
+### Deployment:
+
+<a href="https://www.docker.com" target="_blank">
+	<img src="https://img.shields.io/badge/Docker-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-FFFF00" />
+</a>
+
+### Coding:
+
+<img src="https://img.shields.io/badge/HTML5-ff7851" /> &nbsp; <img src="https://img.shields.io/badge/Markdown-ffffff" /> &nbsp; <img src="https://img.shields.io/badge/CSS3-44b2fb" /> &nbsp; <img src="https://img.shields.io/badge/SQL-FF0000" /> &nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aufheben68&show_icons=true&theme=merko)](https://github.com/aufheben68/github-readme-stats)
