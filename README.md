@@ -1,5 +1,3 @@
-### Hello world, I'm Ody 👋
-
 [![banner.png](https://i.postimg.cc/Pf1Zszsf/banner.png)](https://postimg.cc/dDtDGCVg)
 
 # System Security Engineer and System Administrator, Full Stack Web Developer!  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faufheben68&count_bg=%235EDB00&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com) 
@@ -13,9 +11,12 @@
 `🎓 'Computer Studies' | University of Peloponesse`<br />
 `🎓 Advanced Java Certified Full Stack Web Developer | PeopleCert Coding Bootcamp` <br />
 
-I'm a student, studying **Computer Studies** at [University of Peloponesse](https://www.uop.gr/). I am currently working on my thesis, which is a project that consists of a testbed implemented in *Docker*, a blockchain, a couple containers built for penetration testing and a network with a rule-set API. I am improving my python skills on my effort to build a custom blockchain in order to improve overall system's security.
+---
 
+### Hello world, I'm Ody 👋
 
-I am also a **Java Certified** Full Stack Developer of the **AFDEmp** Code Bootcamp at [PeopleCert](https://peoplecerteducation.org/bootcamp/).
+I'm a student, studying **Computer Studies** at [University of Peloponesse](https://www.uop.gr/). I am currently working on my thesis, which is a project that consists of a testbed implemented in *Docker*, a blockchain, a couple containers built for penetration testing and a network with a rule-setting API. I'm also improving my python skills, on my effort to build a custom blockchain in order to improve overall system's security.
+
+I'm a **Java Certified** Full Stack Developer of the **AFDEmp** Code Bootcamp at [PeopleCert](https://peoplecerteducation.org/bootcamp/).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aufheben68&show_icons=true&theme=merko)](https://github.com/aufheben68/github-readme-stats)
