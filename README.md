@@ -1,6 +1,6 @@
 [![banner.png](https://i.postimg.cc/Pf1Zszsf/banner.png)](https://postimg.cc/dDtDGCVg)
 
-# System Security Engineer and System Administrator, Full Stack Web Developer!
+# System Security Engineer | System Administrator | Full Stack Web Developer!
 
 <p align="center"> 
   <i>Visitor count</i><br>
