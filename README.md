@@ -74,7 +74,10 @@ I'm also a **Java Certified** Full Stack Developer of the **AFDEmp** Code Bootca
 
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> &nbsp; <img src="https://img.shields.io/badge/Markdown-ffffff" /> &nbsp; <img src="https://img.shields.io/badge/CSS3-44b2fb" /> &nbsp; <img src="https://img.shields.io/badge/SQL-FF0000" /> &nbsp;
 
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aufheben68&show_icons=true&theme=merko)](https://github.com/aufheben68/github-readme-stats)
 
+---
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aufheben68) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg' alt='protonmail' height='40'>](od_tas) 
