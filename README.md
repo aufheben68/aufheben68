@@ -76,7 +76,7 @@ I'm also a **Java Certified** Full Stack Developer of the **AFDEmp** Code Bootca
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aufheben68&show_icons=true&theme=merko)](https://github.com/aufheben68/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aufheben68&show_icons=true&theme=merko&langs_count=8)](https://github.com/aufheben68/github-readme-stats)
 
 ---
 
