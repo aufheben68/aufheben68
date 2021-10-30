@@ -104,7 +104,7 @@ Last but not least, I'm a **Java Certified** Full Stack Developer of the **AFDEm
 	<summary>Operating Systems</summary>
 	<ul>
 		<li>Debian Linux</li>
-		<li>Reddhat Linux</li>
+		<li>Redhat Linux</li>
 		<li>SUSE Linux</li>
 		<li>Arch Linux</li>
 		<li>Windows 10</li>
@@ -128,26 +128,20 @@ Last but not least, I'm a **Java Certified** Full Stack Developer of the **AFDEm
 
 ## Favorite Books:
 
-<a href="https://www.goodreads.com/book/show/225546.Living_Loving_Learning" target="_blank">
-	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/live_love_learn.jpg" height="150" alt="Living Loving Learning"/> 
+<a href="https://www.amazon.com/Phenomenology-Spirit-G-W-Hegel/dp/0198245971/ref=sr_1_1?dchild=1&keywords=phenomenology+of+spirit&qid=1635617140&qsid=145-4740879-1258869&s=books&sprefix=phenom%2Cstripbooks-intl-ship%2C329&sr=1-1&sres=0198245971%2C026810350X%2C1535117834%2C0415664462%2CB079527TCV%2CB00I7ZHFV2%2C0198790627%2C0253209102%2C1009018760%2C0810128047%2C0810105942%2CB00BGPKBC0%2CB005OL08XO%2C0271010762%2CB01HQO2T1K%2C0231199058&srpt=ABIS_BOOK" target="_blank">
+	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/live_love_learn.jpg" height="150" alt="Phenomenology of Spirit"/> 
 </a> &nbsp;
-<a href="https://www.goodreads.com/book/show/18144590-the-alchemist" target="_blank">
-	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/the_alchemist.jpg" height="150" alt="The Alchemist"/>
+<a href="https://www.amazon.com/Destruction-Reason-Georg-Lukacs/dp/935002408X" target="_blank">
+	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/the_alchemist.jpg" height="150" alt="The Destruction of Reason"/>
 </a> &nbsp;
-<a href="https://www.goodreads.com/book/show/23692271-sapiens" target="_blank">
-	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/homo-sapiens.jpg" height="150" alt="Homo Sapiens"/> 
+<a href="https://www.amazon.com/Rhetoric-New-Hackett-Aristotle/dp/1624667333/ref=sr_1_7?crid=2HBEQM0QR5N79&dchild=1&keywords=aristotle+rhetoric&qid=1635617911&qsid=145-4740879-1258869&s=books&sprefix=aristotle+rhetori%2Cstripbooks-intl-ship%2C244&sr=1-7&sres=022678990X%2C0486437930%2C0140445102%2C0195305094%2CB08SJ1L6NX%2C019872425X%2C1624667333%2C0520202287%2CB071LBD7TS%2C0075546027%2C1788163184%2C0141392649%2C1585102997%2CB01AFE39SU%2CB07XKB9RG8%2C0195064879&srpt=ABIS_BOOK" target="_blank">
+	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/homo-sapiens.jpg" height="150" alt="Rhetoric"/> 
 </a> &nbsp; 
-<a href="https://www.goodreads.com/book/show/30289.The_Republic" target="_blank">
-	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/plato.jpg" height="150" alt="Plato The Republic"/>
+<a href="https://www.amazon.com/Anti-Oedipus-Capitalism-Schizophrenia-Penguin-Classics/dp/0143105825/ref=sr_1_1?crid=21C2HONVXWFNG&dchild=1&keywords=anti-oedipus&qid=1635617942&qsid=145-4740879-1258869&s=books&sprefix=anti-oedip%2Cstripbooks-intl-ship%2C774&sr=1-1&sres=0143105825%2CB01FIYWFAK%2C0415113199%2CB087C345KF%2C0826491499%2C1584350318%2C1138692352%2C0472065211%2C0231079893%2C0989239101%2C0262631431%2C081421455X%2C1405159286%2C0815602472%2C0816614024%2C0999153544&srpt=ABIS_BOOK" target="_blank">
+	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/plato.jpg" height="150" alt="Anti-Oedipus"/>
 </a> &nbsp; 
-<a href="https://www.goodreads.com/book/show/71728.Jonathan_Livingston_Seagull" target="_blank">
-	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/glaros.jpg" height="150" alt="Ο Γλάρος Ιωνάθαν Λίβινγκστον"/>
-</a> &nbsp; 
-<a href="https://www.goodreads.com/book/show/123684.Influence" target="_blank">
-	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/influence.jpg" height="150" alt="Influence: Science and Practice"/> 
-</a> &nbsp; 
-<a href="https://eloquentjavascript.net/" target="_blank">
-	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/eloquent.jpg" height="150" alt="Eloquent JavaScript"/>
+<a href="https://www.amazon.com/Cin%C3%A9ma-1-Limage-mouvement-Critique-French-ebook/dp/B01A724HKE/ref=sr_1_1?crid=29WFVSB4T28GO&dchild=1&keywords=l%27image-mouvement&qid=1635617966&qsid=145-4740879-1258869&s=books&sprefix=l%27image-mouvemen%2Cstripbooks-intl-ship%2C220&sr=1-1&sres=B01A724HKE%2C3656404739%2CB073JS1PNS%2C2940181144%2C2909383024%2C2747550869%2C6139535379%2C6131562865%2C2757401742%2C2701129397%2C2915794987%2C2862723738%2C3841742734%2C2865890570%2C2897625023%2CB09328MDLK&srpt=ABIS_BOOK" target="_blank">
+	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/glaros.jpg" height="150" alt="L'Image-Mouvement"/>
 </a> 
 
 ---
