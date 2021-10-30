@@ -50,6 +50,14 @@ Last but not least, I'm a **Java Certified** Full Stack Developer of the **AFDEm
 </a>
 
 ### Back-End:
+<a href="https://www.java.com" target="_blank">
+	<img src="https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85- 5b736a" />
+</a>
+<a href="https://www.python.com" target="_blank">
+	<img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85- 4cd0e5 " />
+</a>
+
+### Database:
 
 <a href="https://www.mysql.com" target="_blank">
 	<img src="https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-F29111" />
@@ -76,6 +84,72 @@ Last but not least, I'm a **Java Certified** Full Stack Developer of the **AFDEm
 ### Coding:
 
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> &nbsp; <img src="https://img.shields.io/badge/Markdown-ffffff" /> &nbsp; <img src="https://img.shields.io/badge/CSS3-44b2fb" /> &nbsp; <img src="https://img.shields.io/badge/SQL-FF0000" /> &nbsp;
+
+---
+
+<details>
+	<summary>Tools</summary>
+	<ul>
+		<li>Visual Studio Code</li>
+		<li>IntelliJ IDEA</li>
+		<li>ElasticSearch</li>
+		<li>Kibana</li>
+		<li>Zeek</li>
+		<li>Snort</li>
+		<li>Suricata</li>
+		<li>Linux iptables</li>
+	</ul>
+</details>
+
+<details>
+	<summary>Operating Systems</summary>
+	<ul>
+		<li>Debian</li>
+		<li>Reddhat</li>
+		<li>SUSE</li>
+		<li>Arch</li>
+		<li>Windows 10</li>
+		<li>Ubuntu Server 20.04</li>
+	</ul>
+</details>
+
+<details>
+	<summary>Past Experience & Knowledge </summary>
+	<ul>
+		<li>C</li>
+		<li>Assembly</li>
+		<li>Python, Python Flask, BeautifulSoup 4</li>
+		<li>Bootstrap 3/4</li>
+		<li>jQuery</li>
+		<li>Joomla</li>
+	</ul>
+</details>
+
+---
+
+## Favorite Books:
+
+<a href="https://www.goodreads.com/book/show/225546.Living_Loving_Learning" target="_blank">
+	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/live_love_learn.jpg" height="150" alt="Living Loving Learning"/> 
+</a> &nbsp;
+<a href="https://www.goodreads.com/book/show/18144590-the-alchemist" target="_blank">
+	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/the_alchemist.jpg" height="150" alt="The Alchemist"/>
+</a> &nbsp;
+<a href="https://www.goodreads.com/book/show/23692271-sapiens" target="_blank">
+	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/homo-sapiens.jpg" height="150" alt="Homo Sapiens"/> 
+</a> &nbsp; 
+<a href="https://www.goodreads.com/book/show/30289.The_Republic" target="_blank">
+	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/plato.jpg" height="150" alt="Plato The Republic"/>
+</a> &nbsp; 
+<a href="https://www.goodreads.com/book/show/71728.Jonathan_Livingston_Seagull" target="_blank">
+	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/glaros.jpg" height="150" alt="Ο Γλάρος Ιωνάθαν Λίβινγκστον"/>
+</a> &nbsp; 
+<a href="https://www.goodreads.com/book/show/123684.Influence" target="_blank">
+	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/influence.jpg" height="150" alt="Influence: Science and Practice"/> 
+</a> &nbsp; 
+<a href="https://eloquentjavascript.net/" target="_blank">
+	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/eloquent.jpg" height="150" alt="Eloquent JavaScript"/>
+</a> 
 
 ---
 
