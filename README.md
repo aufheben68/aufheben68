@@ -14,10 +14,10 @@
 ---
 
 `😁 `Odysseas Tasoulas` <br/>
-`🌍 `Athens, Greece` <br/>
-`💼 `Full Stack Web Developer | Cybersecurity enthusiast` <br/>
-`🎓 `Computer Studies | University of Peloponesse` <br/>
-`🎓 `Advanced Java Certified Full Stack Web Developer | PeopleCert Coding Bootcamp` <br/>
+`🌍  Athens, Greece` <br/>
+`💼  Full Stack Web Developer | Cybersecurity enthusiast` <br/>
+`🎓  Computer Studies | University of Peloponesse` <br/>
+`🎓  Advanced Java Certified Full Stack Web Developer | PeopleCert Coding Bootcamp` <br/>
 
 ---
 
