@@ -1,4 +1,4 @@
-<h1 align="center">System Security Engineer | Sys Admin | Full Stack Web Developer</h1>
+<h1 align="center"> Full Stack Web Developer | Cybersecurity enthusiast </h1>
 
 [![banner.png](https://i.postimg.cc/Pf1Zszsf/banner.png)](https://postimg.cc/dDtDGCVg)
 
@@ -13,27 +13,30 @@
 
 ---
 
-`😁 Odysseas Tasoulas` <br />
-`🌍 Athens, Greece` <br />
-`💼 System Security Engineer | System Administrator | Full Stack Web Developer` <br/>
-`🎓 'Computer Studies' | University of Peloponesse`<br />
-`🎓 Advanced Java Certified Full Stack Web Developer | PeopleCert Coding Bootcamp` <br />
+`😁 `Odysseas Tasoulas` <br/>
+`🌍 `Athens, Greece` <br/>
+`💼 `Full Stack Web Developer | Cybersecurity enthusiast` <br/>
+`🎓 `Computer Studies | University of Peloponesse` <br/>
+`🎓 `Advanced Java Certified Full Stack Web Developer | PeopleCert Coding Bootcamp` <br/>
 
 ---
 
 ### Hello world, I'm Ody 👋
 
-I'm a student, studying **Computer Studies** at [University of Peloponesse](https://www.uop.gr/). I am currently working on my thesis, which is a project that consists of a testbed implemented in *Docker*, a blockchain, a couple containers built for penetration testing and a network with a rule-setting API. One of my near future goals is to improve my python skills, in order to build a custom blockchain and enhance overall system's security.
+I am a [Computer Studies](http://dit.uop.gr/index.php) graduate. I am currently working as a Cybersecurity Consultant on the ENIRISST+ project. I am part of the CryptoSec Lab on the [University of Peloponesse](https://www.uop.gr/). Furthermore, I am a researcher and I am working on a scientific publication that proposes a Trust Management System for IoT networks. On July of 2021, I completed my thesis on Collaborative Intrusion Detection Networks, which is a project that consists of a network implemented in *Docker*, an Ubuntu Linux VM that uses [Infection Monkey](https://www.guardicore.com/infectionmonkey/) built for penetration testing and a blacklist mechanism which is periodically excluding malicious IDS nodes. You can check the complete work [here]().
 
-I'm also a **Java Certified** Full Stack Developer of the **AFDEmp** Code Bootcamp at [PeopleCert](https://peoplecerteducation.org/bootcamp/).
+One of my near future goals is to improve my Python skills. 
+
+Last but not least, I'm a **Java Certified** Full Stack Developer of the **AFDEmp** Code Bootcamp at [PeopleCert](https://peoplecerteducation.org/bootcamp/).
 
 ## I am passionate about:
 
-- Blockchains
-- Cryptography
-- Linux Server Administration
-- Penetration Testing
 - Web Development
+- Blockchains
+- Collaborative Intrustion Detection Systems
+- Trust Management Systems
+- Internet of Things
+- System Administration
 
 ## Current Stack:
 
