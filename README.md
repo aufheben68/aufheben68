@@ -97,17 +97,16 @@ Last but not least, I'm a **Java Certified** Full Stack Developer of the **AFDEm
 		<li>Zeek</li>
 		<li>Snort</li>
 		<li>Suricata</li>
-		<li>Linux iptables</li>
 	</ul>
 </details>
 
 <details>
 	<summary>Operating Systems</summary>
 	<ul>
-		<li>Debian</li>
-		<li>Reddhat</li>
-		<li>SUSE</li>
-		<li>Arch</li>
+		<li>Debian Linux</li>
+		<li>Reddhat Linux</li>
+		<li>SUSE Linux</li>
+		<li>Arch Linux</li>
 		<li>Windows 10</li>
 		<li>Ubuntu Server 20.04</li>
 	</ul>
