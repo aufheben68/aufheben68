@@ -23,7 +23,7 @@
 
 ### Hello world, I'm Ody 👋
 
-I am a [Computer Studies](http://dit.uop.gr/index.php) graduate. I am currently working as a Cybersecurity Consultant on the ENIRISST+ project. I am part of the CryptoSec Lab on the [University of Peloponesse](https://www.uop.gr/). Furthermore, I am a researcher and I am working on a scientific publication that proposes a Trust Management System for IoT networks. On July of 2021, I completed my thesis on Collaborative Intrusion Detection Networks, which is a project that consists of a network implemented in *Docker*, an Ubuntu Linux VM that uses [Infection Monkey](https://www.guardicore.com/infectionmonkey/) built for penetration testing and a blacklist mechanism which is periodically excluding malicious IDS nodes. You can check the complete work [here]().
+I am a [Computer Studies](http://dit.uop.gr/index.php) graduate. I am currently working as a Cybersecurity Consultant on the ENIRISST+ project. I am part of the CryptoSec Lab on the [University of Peloponesse](https://www.uop.gr/). Furthermore, I am a researcher and I am working on a scientific publication that proposes a Trust Management System for IoT networks. On July of 2021, I completed my thesis on Collaborative Intrusion Detection Networks, which is a project that consists of a network implemented in *Docker*, an Ubuntu Linux VM that uses [Infection Monkey](https://www.guardicore.com/infectionmonkey/) built for penetration testing and a blacklist mechanism which is periodically excluding malicious IDS nodes. You can check the complete work [here](https://pdfhost.io/v/mJ4Fcq04x_CIDN_Thesis_).
 
 One of my near future goals is to improve my Python skills. 
 
