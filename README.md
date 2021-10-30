@@ -1,4 +1,4 @@
-<h1 align="center"> Full Stack Web Developer | Cybersecurity enthusiast </h1>
+<h1 align="center"> Full Stack Web Developer | Cybersecurity consultant</h1>
 
 [![banner.png](https://i.postimg.cc/Pf1Zszsf/banner.png)](https://postimg.cc/dDtDGCVg)
 
@@ -15,7 +15,7 @@
 
 `😁  Odysseas Tasoulas` <br/>
 `🌍  Athens, Greece` <br/>
-`💼  Full Stack Web Developer | Cybersecurity enthusiast` <br/>
+`💼  Full Stack Web Developer | Cybersecurity consultant` <br/>
 `🎓  Computer Studies | University of Peloponesse` <br/>
 `🎓  Advanced Java Certified Full Stack Web Developer | PeopleCert Coding Bootcamp` <br/>
 
