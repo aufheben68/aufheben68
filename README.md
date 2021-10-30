@@ -51,10 +51,10 @@ Last but not least, I'm a **Java Certified** Full Stack Developer of the **AFDEm
 
 ### Back-End:
 <a href="https://www.java.com" target="_blank">
-	<img src="https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85- 5b736a" />
+	<img src="https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-5b736a" />
 </a>
 <a href="https://www.python.com" target="_blank">
-	<img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85- 4cd0e5 " />
+	<img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-4cd0e5 " />
 </a>
 
 ### Database:
