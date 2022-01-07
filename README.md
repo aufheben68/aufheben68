@@ -33,7 +33,7 @@ Last but not least, I'm a **Java Certified** Full Stack Developer of the **AFDEm
 
 - Web Development
 - Blockchains
-- Collaborative Intrustion Detection Systems
+- Collaborative Intrusion Detection Systems
 - Trust Management Systems
 - Internet of Things
 - System Administration
