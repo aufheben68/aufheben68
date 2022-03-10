@@ -1,4 +1,4 @@
-<h1 align="center"> Full Stack Web Developer | Cybersecurity Consultant</h1>
+<h1 align="center"> Cybersecurity Consultant</h1>
 
 [![banner.png](https://i.postimg.cc/Pf1Zszsf/banner.png)](https://postimg.cc/dDtDGCVg)
 
