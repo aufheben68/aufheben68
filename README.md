@@ -1,4 +1,4 @@
-<h1 align="center"> Cybersecurity Consultant</h1>
+<h1 align="center"> Odysseas Tasoulas | Cybersecurity Consultant</h1>
 
 [![banner.png](https://i.postimg.cc/Pf1Zszsf/banner.png)](https://postimg.cc/dDtDGCVg)
 
@@ -31,12 +31,12 @@ Last but not least, I'm a **Java Certified** Full Stack Developer of the **AFDEm
 
 ## I am passionate about:
 
-- Web Development
 - Blockchains
 - Collaborative Intrusion Detection Systems
 - Trust Management Systems
 - Internet of Things
 - System Administration
+- Web Development
 
 ## Current Stack:
 
