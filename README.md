@@ -150,4 +150,4 @@ Last but not least, I'm a **Java Certified** Full Stack Developer of the **AFDEm
 
 ---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aufheben68) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg' alt='protonmail' height='40'>](od_tas) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aufheben68) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg' alt='protonmail' height='40'>](https://www.linkedin.com/in/odysseas-tasoulas/)(od_tas) 
