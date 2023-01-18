@@ -15,7 +15,7 @@
 
 `😁  Odysseas Tasoulas` <br/>
 `🌍  Athens, Greece` <br/>
-`💼  Full Stack Web Developer | Cybersecurity Consultant` <br/>
+`💼  Application Security Engineer @ Netcompany-Intrasoft` <br/>
 `🎓  Computer Studies | University of Peloponesse` <br/>
 `🎓  Advanced Java Certified Full Stack Web Developer | PeopleCert Coding Bootcamp` <br/>
 
