@@ -23,22 +23,22 @@
 
 ### Hello world, I'm Ody 👋
 
-I am a [Computer Studies](http://dit.uop.gr/index.php) graduate (GPA: 7.15/10.0). I am currently working as a Cybersecurity Consultant on the ENIRISST+ project. I am part of the CryptoSec Lab on the [University of Peloponesse](https://www.uop.gr/). Furthermore, I am a researcher and I am working on a scientific publication that proposes a Trust Management System for IoT networks. On July of 2021, I completed my thesis on Collaborative Intrusion Detection Networks, which is a project that consists of a network implemented in *Docker*, an Ubuntu Linux VM that uses [Infection Monkey](https://www.guardicore.com/infectionmonkey/) built for penetration testing and a blacklist mechanism which is periodically excluding malicious IDS nodes. You can check the complete work [here](https://pdfhost.io/v/mJ4Fcq04x_CIDN_Thesis_).
+As an Application Security Engineer at Netcompany-Intrasoft, I am responsible for designing, maintaining, and building product security tools and services. I align, implement, and operate the Secure SDLC Framework according to the information security standards and best practices from the business, project management, and technical perspective. I provide information security expertise to relevant stakeholders with a focus on secure application development, including defining security requirements, incorporating secure design principles into software architecture, developing technical remediation advisories for security defects, and performing research on technical controls implementation. I also support corporate Information Security Management System activities and build tools and automation scripts to enable developers to easily consume security services. In addition, I deliver Application Security training to technical teams such as Software Development Teams and DevOps Engineers. 
+
+I am a [Computer Studies](http://dit.uop.gr/index.php) graduate (GPA: 7.15/10.0). Previously, I worked as a Cybersecurity Consultant on the ENIRISST+ project (2021) and was a member of the CryptoSec Lab at the [University of Peloponesse](https://www.uop.gr/). I conducted research on Trust Management Systems for IoT networks and completed my thesis on Collaborative Intrusion Detection Networks, which is a project that consists of a network implemented in *Docker*, an Ubuntu Linux VM that uses [Infection Monkey](https://www.guardicore.com/infectionmonkey/) used for penetration testing and a blacklist mechanism which is periodically excluding malicious IDS nodes. You can check the complete work [here](https://pdfhost.io/v/mJ4Fcq04x_CIDN_Thesis_).
 
 One of my near future goals is to improve my Python skills. 
 
 Last but not least, I'm a **Java Certified** Full Stack Developer of the **AFDEmp** Code Bootcamp at [PeopleCert](https://peoplecerteducation.org/bootcamp/).
 
 ## I am passionate about:
+- Application Security
+- Penetration Testing
+- OWASP MASVS/ASVS
+- DevSecOps tools (SAST, DAST, SCA, Secrets Scanning)
+- Hacking Challenges
 
-- Blockchains
-- Collaborative Intrusion Detection Systems
-- Trust Management Systems
-- Internet of Things
-- System Administration
-- Web Development
-
-## Current Stack:
+## Code stack:
 
 ### Front-End:
 
@@ -90,30 +90,22 @@ Last but not least, I'm a **Java Certified** Full Stack Developer of the **AFDEm
 <details>
 	<summary>Tools</summary>
 	<ul>
-		<li>Visual Studio Code</li>
-		<li>IntelliJ IDEA</li>
-		<li>ElasticSearch</li>
-		<li>Kibana</li>
-		<li>Zeek</li>
-		<li>Snort</li>
-		<li>Suricata</li>
+		<li>Burp Suite</li>
+		<li>Kali Linux</li>
+		<li>Android Studio Emulators</li>
 	</ul>
 </details>
 
 <details>
 	<summary>Operating Systems</summary>
 	<ul>
-		<li>Debian Linux</li>
-		<li>Redhat Linux</li>
-		<li>SUSE Linux</li>
-		<li>Arch Linux</li>
-		<li>Windows 10</li>
-		<li>Ubuntu Server 20.04</li>
+		<li>Windows</li>
+		<li>*nix</li>	
 	</ul>
 </details>
 
 <details>
-	<summary>Past Experience & Knowledge </summary>
+	<summary>Past Code Experience & Knowledge </summary>
 	<ul>
 		<li>C</li>
 		<li>Assembly</li>
