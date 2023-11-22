@@ -1,4 +1,4 @@
-<h1 align="center"> Odysseas Tasoulas | Application Security Engineer</h1>
+<h1 align="center"> Ody | Application Security Engineer</h1>
 
 
 
@@ -13,9 +13,9 @@
 
 ---
 
-`😁  Odysseas Tasoulas` <br/>
+`😁  Ody` <br/>
 `🌍  Athens, Greece` <br/>
-`💼  Application Security Engineer @ Netcompany-Intrasoft` <br/>
+`💼  Application Security Engineer` <br/>
 `🎓  Computer Studies | University of Peloponesse` <br/>
 `🎓  Advanced Java Certified Full Stack Web Developer | PeopleCert Coding Bootcamp` <br/>
 
@@ -23,7 +23,7 @@
 
 ### Hello world, I'm Ody 👋
 
-As an Application Security Engineer at Netcompany-Intrasoft, I am responsible for designing, maintaining, and building product security tools and services. I align, implement, and operate the Secure SDLC Framework according to the information security standards and best practices from the business, project management, and technical perspective. I provide information security expertise to relevant stakeholders with a focus on secure application development, including defining security requirements, incorporating secure design principles into software architecture, developing technical remediation advisories for security defects, and performing research on technical controls implementation. I also support corporate Information Security Management System activities and build tools and automation scripts to enable developers to easily consume security services. In addition, I deliver Application Security training to technical teams such as Software Development Teams and DevOps Engineers. 
+As an Application Security Engineer, I am responsible for designing, maintaining, and building product security tools and services. I align, implement, and operate the Secure SDLC Framework according to the information security standards and best practices from the business, project management, and technical perspective. I provide information security expertise to relevant stakeholders with a focus on secure application development, including defining security requirements, incorporating secure design principles into software architecture, developing technical remediation advisories for security defects, and performing research on technical controls implementation. I also support corporate Information Security Management System activities and build tools and automation scripts to enable developers to easily consume security services. In addition, I deliver Application Security training to technical teams such as Software Development Teams and DevOps Engineers. 
 
 I am a [Computer Studies](http://dit.uop.gr/index.php) graduate (GPA: 7.15/10.0). Previously, I worked as a Cybersecurity Consultant on the ENIRISST+ project (2021) and was a member of the CryptoSec Lab at the [University of Peloponesse](https://www.uop.gr/). I conducted research on Trust Management Systems for IoT networks and completed my thesis on Collaborative Intrusion Detection Networks, which is a project that consists of a network implemented in *Docker*, an Ubuntu Linux VM that uses [Infection Monkey](https://www.guardicore.com/infectionmonkey/) used for penetration testing and a blacklist mechanism which is periodically excluding malicious IDS nodes. You can check the complete work [here](https://pdfhost.io/v/mJ4Fcq04x_CIDN_Thesis_).
 
