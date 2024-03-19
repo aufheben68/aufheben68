@@ -34,49 +34,6 @@
 - DevSecOps tools (SAST, DAST, SCA, Secrets Scanning)
 - Hacking Challenges
 
-## Code stack:
-
-### Front-End:
-
-<a href="https://www.reactjs.org" target="_blank">
-	<img src="https://img.shields.io/badge/ReactJS-★★★-41DFFF" />
-</a>
-<a href="https://www.javascript.com/" target="_blank">
-	<img src="https://img.shields.io/badge/JS-★★★★★-FF0000" />
-</a>
-
-### Back-End:
-<a href="https://www.java.com" target="_blank">
-	<img src="https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-5b736a" />
-</a>
-<a href="https://www.python.com" target="_blank">
-	<img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-4cd0e5 " />
-</a>
-
-### Database:
-
-<a href="https://www.mysql.com" target="_blank">
-	<img src="https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-F29111" />
-</a>
-<a href="https://www.mongodb.com" target="_blank">
-	<img src="https://img.shields.io/badge/MongoDB-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-0000FF" />
-</a>
-<a href="https://www.postgresql.org/" target="_blank">
-	<img src="https://img.shields.io/badge/PostgreSQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-1A1A1A" />
-</a>
-
-### Content Management Systems:
-
-<a href="https://www.wordpress.org" target="_blank">
-	<img src="https://img.shields.io/badge/Wordpress-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-000000" />
-</a>
-
-### Deployment:
-
-<a href="https://www.docker.com" target="_blank">
-	<img src="https://img.shields.io/badge/Docker-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-FFFF00" />
-</a>
-
 ### Coding:
 
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> &nbsp; <img src="https://img.shields.io/badge/Markdown-ffffff" /> &nbsp; <img src="https://img.shields.io/badge/CSS3-44b2fb" /> &nbsp; <img src="https://img.shields.io/badge/SQL-FF0000" /> &nbsp;
