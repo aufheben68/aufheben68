@@ -34,10 +34,6 @@
 - DevSecOps tools (SAST, DAST, SCA, Secrets Scanning)
 - Hacking Challenges
 
-### Coding:
-
-<img src="https://img.shields.io/badge/HTML5-ff7851" /> &nbsp; <img src="https://img.shields.io/badge/Markdown-ffffff" /> &nbsp; <img src="https://img.shields.io/badge/CSS3-44b2fb" /> &nbsp; <img src="https://img.shields.io/badge/SQL-FF0000" /> &nbsp;
-
 ---
 
 <details>
