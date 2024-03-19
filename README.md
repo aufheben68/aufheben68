@@ -36,37 +36,6 @@
 
 ---
 
-<details>
-	<summary>Tools</summary>
-	<ul>
-		<li>Burp Suite</li>
-		<li>Kali Linux</li>
-		<li>Android Studio Emulators</li>
-	</ul>
-</details>
-
-<details>
-	<summary>Operating Systems</summary>
-	<ul>
-		<li>Windows</li>
-		<li>*nix</li>	
-	</ul>
-</details>
-
-<details>
-	<summary>Past Code Experience & Knowledge </summary>
-	<ul>
-		<li>C</li>
-		<li>Assembly</li>
-		<li>Python, Python Flask, BeautifulSoup 4</li>
-		<li>Bootstrap 3/4</li>
-		<li>jQuery</li>
-		<li>Joomla</li>
-	</ul>
-</details>
-
----
-
 ## Favorite Books:
 
 <a href="https://www.amazon.com/Phenomenology-Spirit-G-W-Hegel/dp/0198245971/ref=sr_1_1?dchild=1&keywords=phenomenology+of+spirit&qid=1635617140&qsid=145-4740879-1258869&s=books&sprefix=phenom%2Cstripbooks-intl-ship%2C329&sr=1-1&sres=0198245971%2C026810350X%2C1535117834%2C0415664462%2CB079527TCV%2CB00I7ZHFV2%2C0198790627%2C0253209102%2C1009018760%2C0810128047%2C0810105942%2CB00BGPKBC0%2CB005OL08XO%2C0271010762%2CB01HQO2T1K%2C0231199058&srpt=ABIS_BOOK" target="_blank">
