@@ -20,10 +20,10 @@
 
 ### Hello world, I'm Ody 👋
 
-Vulnerability Assessment and Penetration Testing services for both infrastructure and web applications
-Source Code Review and Software Assurance Maturity Assessments
-Infrastructure and Network-based Configuration Reviews
-Social Engineering Assessment
+- Vulnerability Assessment and Penetration Testing services for both infrastructure and web applications
+- Source Code Review and Software Assurance Maturity Assessments
+- Infrastructure and Network-based Configuration Reviews
+- Social Engineering Assessment
 
 💻🌐 #Cybersecurity #InfoSec #PenTesting #VulnerabilityAssessment #SecuritySolutions 
 
